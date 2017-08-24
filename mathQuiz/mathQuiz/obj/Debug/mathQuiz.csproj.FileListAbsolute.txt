@@ -1,0 +1,9 @@
+c:\users\mgaluszka\documents\visual studio 2013\Projects\mathQuiz\mathQuiz\bin\Debug\mathQuiz.exe.config
+c:\users\mgaluszka\documents\visual studio 2013\Projects\mathQuiz\mathQuiz\bin\Debug\mathQuiz.exe
+c:\users\mgaluszka\documents\visual studio 2013\Projects\mathQuiz\mathQuiz\bin\Debug\mathQuiz.pdb
+c:\users\mgaluszka\documents\visual studio 2013\Projects\mathQuiz\mathQuiz\obj\Debug\mathQuiz.csprojResolveAssemblyReference.cache
+c:\users\mgaluszka\documents\visual studio 2013\Projects\mathQuiz\mathQuiz\obj\Debug\mathQuiz.Form1.resources
+c:\users\mgaluszka\documents\visual studio 2013\Projects\mathQuiz\mathQuiz\obj\Debug\mathQuiz.Properties.Resources.resources
+c:\users\mgaluszka\documents\visual studio 2013\Projects\mathQuiz\mathQuiz\obj\Debug\mathQuiz.csproj.GenerateResource.Cache
+c:\users\mgaluszka\documents\visual studio 2013\Projects\mathQuiz\mathQuiz\obj\Debug\mathQuiz.exe
+c:\users\mgaluszka\documents\visual studio 2013\Projects\mathQuiz\mathQuiz\obj\Debug\mathQuiz.pdb
